@@ -1,6 +1,6 @@
 # Tabs
 
-This project is a React-based tab component system that allows for dynamic and interactive content display through tabbed navigation. The implementation includes a parent component, TabParent, which defines an array of tabs, each with a label and associated content. The content for each tab can include standard HTML elements or custom React components, providing flexibility for diverse use cases.
+This project is a React-based tab component system that allows for dynamic and interactive content display through tabbed navigation. The implementation includes a parent component, TabParent, which defines an array of tabs, each with a label and associated content.
 
 Key features:
 
